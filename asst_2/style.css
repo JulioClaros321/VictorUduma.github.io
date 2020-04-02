@@ -38,6 +38,7 @@ button {
 .thumb-bar img {
   display: flex;
   width: 20%;
+  max-height: 480px;
   float: left;
   cursor: pointer;
   justify-content: center;
